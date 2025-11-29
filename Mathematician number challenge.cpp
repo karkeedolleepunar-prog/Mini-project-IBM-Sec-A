@@ -1,3 +1,4 @@
+//Mathematician number challenge 
 #include <iostream>
 using namespace std;
 
